@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic - 5 programming Assignment - Worst guessing game", "Topic - 5 programming Assignment - Worst guessing game\Topic - 5 programming Assignment - Worst guessing game.csproj", "{4F324981-7399-41FD-8D6B-2263F4E80ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F324981-7399-41FD-8D6B-2263F4E80ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F324981-7399-41FD-8D6B-2263F4E80ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F324981-7399-41FD-8D6B-2263F4E80ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F324981-7399-41FD-8D6B-2263F4E80ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E7D8816-8990-436D-AE7C-E3998734E78C}
+	EndGlobalSection
+EndGlobal
